@@ -1,0 +1,8 @@
+- SHIFT+click derecho -> Open Linux Shell here
+- se abre la terminal de ubuntu en la carpeta que hagas click (/rgm)
+- conda activate rgm (rgm es tu entorno)
+- si quieres instalar cualquier librería desde la terminal esta instalado pip, o con conda, conda forge...
+- Para abrir notebooks en terminal: jupyter lab (aparece una ruta http:77localhos o 127.0..., CTRL+click y se abre en el navegador)
+- esa terminal se queda ejecutando jupyer, si quieres instalar algo abres otra terminal de la misma manera que el punto uno, accedes a tu entorno (conda activate rgm) y ahí instalas lo que quieras. (ASEGURATE QUE ESTAS EN TU ENTORNO - rgm) restart kernel e importer librerías de nuevo. Tambien puedes instalar desde el notebook con ![commando terminal]
+- Si se te frie el kernel, va lento o cualquier cosa, abres cmd y pones: wsl --shutdown (esto cierra todo y vuelves a empezar, Linux shell, conda activate...)
+- LOVE U
